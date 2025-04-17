@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cyphermyst
-- 👀 I’m interested in  Cyber security and Ethical Hackin
+- 👀 I’m interested in  Cyber security and Ethical Hacking
 - 🌱 I’m currently introducing myself to computer fundamentals just laying the foundations for this amazing journey.
 - 💞️ I’m looking to collaborate on improving our digital security by securing organisation through effective pentests.
 - 📫 How to reach me 
