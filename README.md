@@ -1,11 +1,55 @@
 - 👋 Hi, I’m @Cyphermyst
-- 👀 I’m  an Ethical Hacker
-- 🌱 I have been taking capture the flag challenge CTFs,scripting.
-- 💞️ I’m looking to collaborate on improving our digital security by securing organisation through effective pentests.
-- 📫 How to reach me 
-- 😄 Pronouns:He/Him
-- ⚡ Fun fact: #just a tech 😂 
-<!---
-Cypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### 🚀 Offensive Security | Red Team Learner | Automation Enthusiast
+
+I'm an IT student diving deep into offensive security, building tools, breaking systems ethically, and documenting the journey as I level up.
+
+---
+
+## 🔧 Skills & Tools
+- **Languages:** Python, Bash  
+- **Pentesting:** Nmap, Burp Suite, Metasploit  
+- **Platforms:** Kali Linux, VirtualBox  
+- **Areas:** Recon, Enumeration, Privilege Escalation  
+- **Other:** Git, GitHub, Linux Essentials  
+
+---
+
+## 🧩 What I'm Working On
+- Recon automation scripts  
+- Custom wordlist and payload generators  
+- OSINT tooling  
+- CTF writeups (safe + educational)  
+- Improving Python & learning Go/Rust  
+
+---
+
+## 📚 Currently Learning
+- Web application exploitation  
+- Exploit development basics  
+- Cloud security fundamentals  
+- Advanced Linux & shell scripting  
+
+---
+
+## 🎯 Goals
+- Build a solid offensive-security toolset  
+- Publish regular writeups + projects  
+- Become a high-value red-team operator  
+- Master Python → Go → Rust  
+- Grow a strong GitHub portfolio  
+
+---
+
+## 📂 Featured Projects (Pin these)
+- **Recon Toolkit**  
+- **Port Scanner (Python)**  
+- **Wordlist Generator**  
+- **OSINT Scraper**  
+- **CTF Writeups**  
+
+---
+
+## 📬 Connect
+Always open to collaboration, learning, and building cool stuff.
