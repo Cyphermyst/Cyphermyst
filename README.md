@@ -8,7 +8,7 @@ I'm an IT student diving deep into offensive security, building tools, breaking 
 ---
 
 ## 🔧 Skills & Tools
-- **Languages:** Python, Bash  
+- **Languages:** Python, Bash  ,C & C++
 - **Pentesting:** Nmap, Burp Suite, Metasploit  
 - **Platforms:** Kali Linux, VirtualBox  
 - **Areas:** Recon, Enumeration, Privilege Escalation  
@@ -21,15 +21,16 @@ I'm an IT student diving deep into offensive security, building tools, breaking 
 - Custom wordlist and payload generators  
 - OSINT tooling  
 - CTF writeups (safe + educational)  
-- Improving Python & learning Go/Rust  
+- Improving Python & learning low level programming both C and C++
 
 ---
 
 ## 📚 Currently Learning
 - Web application exploitation  
-- Exploit development basics  
+- Exploit development   
 - Cloud security fundamentals  
 - Advanced Linux & shell scripting  
+- AI security 
 
 ---
 
