@@ -44,7 +44,7 @@ I'm an IT student diving deep into offensive security, building tools, breaking 
 
 ##  Featured Projects 
 - **CTF Writeups** currently working on from January 10th 2026
--  
+-  OP:Silent Forge
 
 ---
 
