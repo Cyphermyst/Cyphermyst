@@ -26,7 +26,7 @@ I'm an IT student diving deep into offensive security, building tools, breaking 
 
 
 
-## 📚 Currently Learning
+##  Currently Learning
 - Web application exploitation  
 - Exploit development   
 - Network Infiltration 
@@ -48,7 +48,7 @@ I'm an IT student diving deep into offensive security, building tools, breaking 
 
 ---
 
-## 📬 Connect
+##  Connect
 Always open to collaboration, learning, and building cool stuff.
 LinkedIn: 
 x: 
