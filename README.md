@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Cyphermyst
+-  Hi, I’m @Cyphermyst.A young tech enthuthiast fascinated by the world of Cybersecurity.
+- 
 
 
-### 🚀 Offensive Security | Red Team Learner | Automation Enthusiast
+###  Offensive Security | Red Team Learner | Automation Enthusiast
 
 I'm an IT student diving deep into offensive security, building tools, breaking systems ethically, and documenting the journey as I level up.
 
@@ -9,48 +10,45 @@ I'm an IT student diving deep into offensive security, building tools, breaking 
 
 ## 🔧 Skills & Tools
 - **Languages:** Python, Bash  ,C & C++
-- **Pentesting:** Nmap, Burp Suite, Metasploit  
+- **Pentesting:** Nmap, Burp Suite, Metasploit among many more ... 
 - **Platforms:** Kali Linux, VirtualBox  
-- **Areas:** Recon, Enumeration, Privilege Escalation  
-- **Other:** Git, GitHub, Linux Essentials  
+- **Areas:** Recon, Enumeration,Exploitation, Privilege Escalation ,
+- **Other:** Git, GitHub
 
 ---
 
-## 🧩 What I'm Working On
+##  What I'm Working On
 - Recon automation scripts  
 - Custom wordlist and payload generators  
 - OSINT tooling  
 - CTF writeups (safe + educational)  
 - Improving Python & learning low level programming both C and C++
 
----
+
 
 ## 📚 Currently Learning
 - Web application exploitation  
 - Exploit development   
-- Cloud security fundamentals  
-- Advanced Linux & shell scripting  
-- AI security 
+- Network Infiltration 
 
----
 
-## 🎯 Goals
+
+##  Goals
 - Build a solid offensive-security toolset  
 - Publish regular writeups + projects  
 - Become a high-value red-team operator  
-- Master Python → Go → Rust  
-- Grow a strong GitHub portfolio  
+- Master Python(automation),C and C++(exploit Development) and Bash too for linux Shell Scripting
+- Grow a strong GitHub portfolio which will always server as Cookie Jar for progress.
 
----
 
-## 📂 Featured Projects (Pin these)
-- **Recon Toolkit**  
-- **Port Scanner (Python)**  
-- **Wordlist Generator**  
-- **OSINT Scraper**  
-- **CTF Writeups**  
+
+##  Featured Projects 
+- **CTF Writeups** currently working on from January 10th 2026
+-  
 
 ---
 
 ## 📬 Connect
 Always open to collaboration, learning, and building cool stuff.
+LinkedIn: 
+x: 
